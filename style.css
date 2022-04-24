@@ -1,0 +1,35 @@
+
+.network{color: green;background-color: greenyellow;width: 280px; border: 3px solid green;margin: 0px 30px ; border-radius: 10px; color: black;
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+}
+        p.friend{color:red;font-size: 100%;font-weight: 1000;font-family:'Times New Roman', Times, serif;}
+    
+        #birthday{font-size: 100%;margin: 10px 0px 20px 20px; color:skyblue}
+    
+        .friend{background-color: greenyellow; width:120px; blue; border: 3px solid green;margin: 15px 30px; border-radius: 10px;}
+        
+        h1.friend{width:320px}
+    
+        .neighbor{margin: 10px 0px 10px 20px;}
+    
+      
+        .romantic{color: green;}
+    
+        .blog{border: 7px solid green;border-radius: 20px;margin: 30px; padding: 0px 40px;width:15%;display: inline-block;}
+    
+        .computer{border: 7px solid green;border-radius: 20px;margin: 40px 60px;padding: 0px 40px;}
+    
+        .pc{margin: 10px 10px 10px 20px ;}
+    
+        .mobile{color:red;text-align: center;}
+    
+        .key{text-align: justify;}
+    
+        .speak{color: black; background-color: greenyellow;border: green;border: 5px solid green;; border-radius: 15px;margin: 50px 50px 50px 50px;padding: 10px ;text-align: center;}
+
+        .speak:hover{color: red;background-color: lightblue;}
+    
+        img{width:50%}
+    
+    
